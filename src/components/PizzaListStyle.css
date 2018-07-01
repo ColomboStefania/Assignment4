@@ -1,0 +1,15 @@
+
+.Price  {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-left: 600px;
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: inline;
+  border: 1px solid blue;
+    background-color: yellow;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
